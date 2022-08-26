@@ -1,3 +1,4 @@
+import React from 'react'
 import { VideoHTMLAttributes, useEffect, useRef } from 'react'
 
 type PropsType = VideoHTMLAttributes<HTMLVideoElement> & {
